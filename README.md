@@ -1,4 +1,3 @@
-# Final_Project
 # Full-Stack Expense Tracker
 **Live Link:** https://expense-tracker-8m3y.onrender.com
 
