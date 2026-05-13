@@ -31,7 +31,7 @@ The frontend is built as a **Single Page Application (SPA)** using pure JavaScri
 
 - **`public/index.html`**: The main interface structure. Instead of creating multiple HTML files, the entire application exists here. JavaScript toggles the visibility of different sections (`.hidden` class) to simulate page navigation seamlessly.
 - **`public/css/style.css`**: The styling engine. Designed with a premium **dark mode** aesthetic, it utilizes modern CSS techniques such as **Glassmorphism** (`backdrop-filter: blur`), CSS Grid/Flexbox for layout, and custom CSS variables for easy theming.
-- **`public/js/api.js`**: A dedicated API service class. It acts as a wrapper around the native browser `fetch` API. It automatically attaches the user's JWT token to every request, keeping the main application logic clean and DRY (Don't Repeat Yourself).
+- **`public/js/api.js`**: A dedicated API service class. It acts as a wrapper around the native browser `fetch` API. It automatically attaches the user's JWT token to every request, keeping the main application logic clean and DRY.
 - **`public/js/app.js`**: The brains of the frontend. It handles state management (current user, current sheet, expenses), DOM manipulation, and event listeners. 
 
 ### 💡 Notable Design Decisions
