@@ -1,3 +1,4 @@
-{"$$indexCreated":{"fieldName":"username","unique":true,"sparse":false}}
 {"username":"testuser","password":"$2b$10$hRf7SLPLGmkWzygDyTtwDeM56sJDfVISP6o4xg72mtID4OupcIQni","_id":"MYG88NN1e3CQWnKk"}
 {"username":"testuser1234","password":"$2b$10$6W7ubTF7qKuBxuQYz4njrOztl5XdsCbLu1tWoiy3FF3wTjyO7r7MO","_id":"v9GB8KgpwVbKPelA"}
+{"$$indexCreated":{"fieldName":"username","unique":true,"sparse":false}}
+{"$$indexCreated":{"fieldName":"username","unique":true}}

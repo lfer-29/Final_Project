@@ -1,7 +1,5 @@
-{"sheetId":"UQdJZhcWXVY8tq9X","description":"Coffee","amount":4.5,"category":"Food","date":"2026-05-12","createdAt":{"$$date":1778630363404},"_id":"ScFW1ISYkRZxYpwn"}
-{"sheetId":"UQdJZhcWXVY8tq9X","description":"Flight","amount":350,"category":"Travel","date":"2026-05-12","createdAt":{"$$date":1778630389346},"_id":"RB4R9ZdrMErhP0Bj"}
 {"sheetId":"UQdJZhcWXVY8tq9X","description":"Coffee","amount":230,"category":"Food","date":"2026-05-13","createdAt":{"$$date":1778630453761},"_id":"Bmy1mU1YUhfVwvCC"}
-{"sheetId":"7KJgWa4IRo4CgmYj","description":"Coffee","amount":230,"category":"Food","date":"2026-05-13","createdAt":{"$$date":1778630522291},"_id":"Al3ugq9XOOFH4M4E"}
-{"sheetId":"7KJgWa4IRo4CgmYj","description":"Lunch","amount":20,"category":"Food","date":"2026-05-13","createdAt":{"$$date":1778630769847},"_id":"OAXRK84RHSHT8l5u"}
-{"$$deleted":true,"_id":"Al3ugq9XOOFH4M4E"}
 {"sheetId":"kXyv4ScWGV2xS8IH","description":"Lunch","amount":100,"category":"Food","date":"2026-05-13","createdAt":{"$$date":1778630963924},"_id":"MRU2I3AtHZ7EdSs5"}
+{"sheetId":"7KJgWa4IRo4CgmYj","description":"Lunch","amount":20,"category":"Food","date":"2026-05-13","createdAt":{"$$date":1778630769847},"_id":"OAXRK84RHSHT8l5u"}
+{"sheetId":"UQdJZhcWXVY8tq9X","description":"Flight","amount":350,"category":"Travel","date":"2026-05-12","createdAt":{"$$date":1778630389346},"_id":"RB4R9ZdrMErhP0Bj"}
+{"sheetId":"UQdJZhcWXVY8tq9X","description":"Coffee","amount":4.5,"category":"Food","date":"2026-05-12","createdAt":{"$$date":1778630363404},"_id":"ScFW1ISYkRZxYpwn"}
