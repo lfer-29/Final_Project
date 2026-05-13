@@ -1,11 +1,11 @@
 # Final_Project
 # Full-Stack Expense Tracker
+**Live Link:** https://expense-tracker-8m3y.onrender.com
 
 A modern, full-stack Expense Tracker web application built to help users seamlessly track and categorize their expenses across multiple isolated sheets. 
 
 ## 🚀 Technologies Used
 
-- **Live Link:** https://expense-tracker-8m3y.onrender.com
 - **Backend:** Node.js with [Express.js](https://expressjs.com/)
 - **Database:** [NeDB](https://github.com/louischatriot/nedb) (Node Embedded Database) via `nedb-promises`
 - **Frontend:** Vanilla HTML5, CSS3, and JavaScript (No heavy frameworks required)
